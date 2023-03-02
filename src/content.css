@@ -1,0 +1,34 @@
+.Content {
+text-align: center;
+}
+.Content .content button{
+background-color: #1287ff;
+padding: 20px 20px;
+border: none;
+border-radius: 5px;
+color: white;
+}
+.Content .card-ct{
+    display: flex;
+    flex-wrap: wrap;
+}
+.Content .card{
+    padding: 50px 100px ;
+    
+}
+.Content .card-body {
+    background-color: #80808038;
+    width: 250px;
+    height: 200px;
+    border-radius: 5px
+}
+.Content .card-body .icon{
+width: 80px;
+height: 80px;
+background-color: #1287ff;
+align-items: center;
+justify-content: center;
+display: inline-flex;
+margin-top: -30px;
+
+}
